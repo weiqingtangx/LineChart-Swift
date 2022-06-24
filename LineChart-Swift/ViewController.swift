@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.title = "折线图";
+        self.title = "LineChart";
         
         //Step 1 init a canvas view to show chart
         //Step 1 初始化一个view来承载图表的显示
